@@ -1,2 +1,0 @@
-# BookStore
-Noodler's Project
